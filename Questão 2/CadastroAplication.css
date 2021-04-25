@@ -1,0 +1,58 @@
+body {
+    width: 100%;
+    height:3cm;
+    font-family: 'Lobster';
+    line-height: 0.3;
+    color: white;
+        background-image: linear-gradient(180deg, rgb(59, 196, 238),rgb(59, 196, 238)
+      );         
+  }
+  button{
+      font-family:inherit;
+      cursor:pointer;
+  }       
+.Titulo{
+position:absolute;
+    font-size: 10mm;
+    left: 40%;
+    top: 5%;
+}
+.voltar{
+display: inline-block;
+padding: 0.5em 1em ;
+width: 200px;
+text-align: center;
+padding: 10px 15px;
+border: 1px solid #eee;
+color: white;
+border-radius: 6px;
+background-color: rgb(17, 61, 75);
+font-size: 20px;
+}
+.registro{
+padding: 0.5em 1em ;
+width: 350px;
+padding: 10px 15px;
+border: 1px solid #eee;
+color: white;
+border-radius: 6px;
+background-color: rgb(27, 98, 119);
+font-size: 30px;
+Position: absolute;
+left: -15%;
+top:100%
+}
+.rodape{   
+    position:absolute;
+    Top:90%; 
+}
+.formulario{
+    position: absolute;
+    top: 40%;
+    width: 20%;
+    left: 40%;
+}
+.input-padrao{
+    margin: 10px  18px;
+    padding: 10px 25px;
+}

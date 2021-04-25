@@ -1,0 +1,71 @@
+body {
+    width: 100%;
+    height:3cm;
+    font-family: 'Lobster';
+    line-height: 0.3;
+    color: white;
+    
+  
+        background-image: linear-gradient(180deg, rgb(59, 196, 238),rgb(59, 196, 238)
+      );         
+  }
+  button{
+      font-family:inherit;
+      cursor:pointer;
+  }    
+
+
+
+.Titulo{
+
+    font-size: 10mm;
+    text-align: center;
+
+}
+.Paragrafos{
+    font-size: 5mm;
+    text-align: center;
+
+}
+.imagem{
+   text-align: center;
+   
+  
+   
+}
+.cronograma{font-family: Arial;
+    font-size: 5mm;
+    line-height: 0.5;
+}
+.botao{
+    Position: absolute;
+padding: 0.5em 1em ;
+width: 350px;
+padding: 10px 15px;
+border: 1px solid #eee;
+color: white;
+border-radius: 6px;
+background-color: rgb(27, 98, 119);
+font-size: 30px;
+Position: absolute;
+Left:40%;
+
+
+
+}
+.rodape{
+    
+    position:absolute;
+    Top:95%;
+    
+}
+
+          body{
+              background-image: linear-gradient(180deg, rgb(59, 196, 238),rgb(59, 196, 238)
+            );         
+        }
+        button{
+            font-family:inherit;
+            cursor:pointer;
+        }       
+
